@@ -52,7 +52,8 @@ Sl .no	Apparatus	Range	Type	Quantity
 
 
 # Tabulation for Load Test:
-![WhatsApp Image 2025-09-16 at 09 02 00_32035ea4](https://github.com/user-attachments/assets/ec48c200-749a-48f2-9df0-0bc47782bebe)
+![WhatsApp Image 2025-09-16 at 09 01 59_d9dcfe06](https://github.com/user-attachments/assets/4191b77e-ed38-4514-8465-395775fe8722)
+
 
 # Model graph:
 # Calculation: 
