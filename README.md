@@ -66,6 +66,7 @@ Sl .no	Apparatus	Range	Type	Quantity
  ![WhatsApp Image 2025-09-16 at 09 02 00_32035ea4](https://github.com/user-attachments/assets/7f92b8d8-8075-47ac-a5bf-f6d9b429286a)
 
 <img width="1201" height="835" alt="image" src="https://github.com/user-attachments/assets/98507079-8fa0-41ba-9f35-85ce28d8c16b" />
+<img width="777" height="781" alt="image" src="https://github.com/user-attachments/assets/8a4b1ad4-3bb6-4448-8dc7-a0e00dcba6d7" />
 
 # Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
